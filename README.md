@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 💥 I’m interested in Cybersecurity
 - 📫 How to reach me: "christianremulla.01@gmail.com"
 
-### 🚀 Technologies
+### 📚 Knowledge
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,java,html,py,css,eclipse,github,gmail,linkedin" />
