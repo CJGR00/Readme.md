@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 - **Tools:** Git, GitHub 
 <!--
 ### 🎓 Education
-Currently Enrolled at Cavite State University. 
-
+Currently enrolled at Cavite State University. 
+ -->
