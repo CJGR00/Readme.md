@@ -1,8 +1,8 @@
-<!-- ## Hi there 👋, I'm Lance -->
-<!-- <h1 align="center">Computer Science student</h1> -->
+<!-- ## Hello I am Christian! -->
+<!-- <h1 align="center">Computer Science Student</h1> -->
 
 <!--
-**lancemiranoo/lancemiranoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -22,13 +22,12 @@ Here are some ideas to get you started:
 
 <br>
 
-- 🤔 I’m interested in Data Analytics, Web Development and Software Engineering.
-- 🌱 I’m currently learning Full-Stack Java, C# and JavaScript.
+- 🤔 I’m interested in CyberSecurity, Web Development and Computer Hardware.
   
 <br>
 -->
 
-### 👋 Hello, I'm Lance
+### 👋 Hello I am Christian!
 
 - 🎓 I am currently studying at Canada.
 - 🌱 Currently learning about DevOps
@@ -37,14 +36,14 @@ Here are some ideas to get you started:
 ### 🚀 Technologies
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,py,java,cs,flutter,mysql,firebase,mongodb,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=aws,java,html,py,css,eclipse,github,gmail,linkedin" />
+  </a>
 </p>
 <!--
-- **Languages:** Python, Java, C#, JavaScript
-- **Frameworks:** React.js, Express.js, Spring Boot, .NET
-- **Databases:** SSMS, SQL Developer, MongoDB, MySQL
-- **Tools:** Git, GitHub, Postman 
+- **Languages:** Python, Java, C++
+- **Databases:**  MySQL
+- **Tools:** Git, GitHub 
 <!--
 ### 🎓 Education
-I am currently studying at Canada. 
-My education is providing me with a solid foundation in software development and design principles. -->
+Currently Enrolled at Cavite State University. 
+
