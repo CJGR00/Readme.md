@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 ### 👋 Hello I am Christian!
 
 - 🎓 Currently Enrolled at Cavite State University.
-- 🌱 Currently learning about DevOps
 - 💥 I’m interested in Cybersecurity
 - 📫 How to reach me: "christianremulla.01@gmail.com"
 
