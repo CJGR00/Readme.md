@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 
 ### 👋 Hello I am Christian!
 
-- 🎓 I am currently studying at Canada.
+- 🎓 Currently Enrolled at Cavite State University.
 - 🌱 Currently learning about DevOps
-- 🤔 I’m interested in Machine Learning
+- 💥 I’m interested in Cybersecurity
+- 📫 How to reach me: "christianremulla.01@gmail.com"
 
 ### 🚀 Technologies
 <p>
